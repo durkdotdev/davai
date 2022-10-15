@@ -7,7 +7,7 @@
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",
-    "lint": "prettier --write && turbo run lint",
+    "lint": "prettier --write \"**/*.{json,js,ts,svelte}\" && turbo run lint",
     "prepare": "husky install"
   },
   "devDependencies": {

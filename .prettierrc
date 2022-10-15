@@ -7,5 +7,6 @@
   "tabWidth": 2,
   "trailingComma": "none",
   "plugins": ["prettier-plugin-svelte"],
-  "svelteStrictMode": true
+  "svelteStrictMode": true,
+  "svelteAllowShorthand": true
 }
