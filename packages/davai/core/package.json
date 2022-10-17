@@ -1,0 +1,15 @@
+{
+  "name": "@davai/core",
+  "version": "0.0.0",
+  "license": "MIT",
+  "main": "index.ts",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@radix-ui/colors": "^0.1.8",
+    "@stitches/core": "^1.2.8",
+    "lodash-es": "^4.17.21",
+    "tsconfig": "workspace:*"
+  }
+}

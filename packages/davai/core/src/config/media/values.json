@@ -1,0 +1,7 @@
+{
+  "sm": "(min-width: 30rem)",
+  "md": "(min-width: 48rem)",
+  "lg": "(min-width: 62rem)",
+  "xl": "(min-width: 80rem)",
+  "2xl": "(min-width: 96rem)"
+}

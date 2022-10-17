@@ -1,4 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>
-  Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation
-</p>
+<script lang="ts">
+  import { Div } from "@davai/svelte";
+
+  // const { toggleTheme } = useTheme();
+</script>
+
+<Div background="$amber7" marginX="16px">hello world</Div>
+<!-- <button on:click="{toggleTheme}">toggle theme</button> -->
